@@ -1,2 +1,2 @@
 # translate_c
-Translate langueage using Open-AI API
+Translate language using Open-AI API
