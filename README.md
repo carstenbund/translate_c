@@ -1,2 +1,2 @@
 # translate_c
-Localize legacy apps in c
+Translate langueage using Open-AI API
