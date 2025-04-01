@@ -1,2 +1,2 @@
 # translate_c
-Translate language using Open-AI API
+Translate language in c-code files using Open-AI API
